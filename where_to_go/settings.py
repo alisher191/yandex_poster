@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     'ckeditor',
     
     #my apps
-    'map',
     'places',
 ]
 
